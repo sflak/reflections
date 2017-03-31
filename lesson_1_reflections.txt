@@ -1,0 +1,21 @@
+Version control is like a big undo button. If you make changes to your code, but dont like the results, you can go back to the old version. Additionally, if you make a change and somehow end up creating a bug, you can compare the old version to the new version to see what changes could have created the bug. An example of this is if you made a typo.
+
+Lots of applications use version control, such as dropbox and google drive, so youve been using version control without even knowing it!
+
+By using version control, you can be much more efficient in finding errors in your code. You can also be more willing to try different solutions if you know that there are old versions saved that you can go back to. 
+
+Q) What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+A) By manually commiting, you will always commit at logical times in your code. These could be one new feature,  or a couple of typo fixes in the same file. The drawback to this, is that humans are forgetfull. You might end up making lots of changes without making any commits. If this happens, you will have a lot of code or fixes added at once, and any errors will be harder to find. 
+
+Q) Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+A) Git does this because project files in a program can be very interconnected; changing something in one file could mean changes in other files as well. VCSs like Google Drive doesn't do this because it is unlikely that your docs are interconnected. 
+
+Q) How might using version control make you more confident to make changes that could break something?
+
+A) Having older versions can make you more bold in trying to add features or change things about your code because you know that if you break something, you can always go back to a working version of you code.
+
+Q) Now that you have your workspace set up, what do you want to try using Git for?
+
+A) Right now, I really want to see what worlflow is like using git.
