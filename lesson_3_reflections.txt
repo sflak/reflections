@@ -14,7 +14,13 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    Forks are essentially the same as clones, except they are done exclusively
+    on git hub, and git hib keeps track of forks so that people get credit for 
+    their work. Clones are copies of git repositories that you store on your
+    local computer. Branches are when you create a new line of commits that you
+    can then merge later with other branches. If you wanted to publicly share
+    your changes to someone else's git hub repository, then that is when you 
+    should use a Fork instead of just a clone. 
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
